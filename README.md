@@ -1,24 +1,10 @@
 # prev-tempo
 
-## Project setup
-```
-npm install
-```
+## Front da aplicação prev_tempo. Feito em Vue 3 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#rotas possiveis:
+#'/' -> padina inicial
+#'/login' -> login do administrador
+#'/dashboard' -> painel administrativo
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
